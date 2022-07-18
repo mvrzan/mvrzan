@@ -1,4 +1,4 @@
-### Hello there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hello there!  👋
 
 My name is Matija Vrzan and I'm a Senior Solutions Architect at Twilio's Professional Services from 🇭🇷 **Petrinja, Croatia** currently living in 🇨🇦 **Toronto, Canada**! In my current role, I try to help customers leverage Twilio services to take their contact centers into the modern age and provide top industry customer experience. 
 
