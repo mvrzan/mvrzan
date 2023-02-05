@@ -2,6 +2,8 @@
 
 My name is Matija Vrzan and I'm a Senior Solutions Architect at Twilio's Professional Services from 🇭🇷 **Petrinja, Croatia** currently living in 🇨🇦 **Toronto, Canada**! In my current role, I try to help customers leverage Twilio services to take their contact centers into the modern age and provide top industry customer experience. 
 
+As for my personal time, I try to learn new things one day at the time and build web applications that are performant, scalable, and well-designed. Once I have something of sustenance, I'll be sure to share it here for reference. At the moment, this is work in progress 🚧 👷‍♂️ 🏗️
+
 ## 🛠 Things I currently work with professionally 👷‍♂️ 🏢 💼
 
 
