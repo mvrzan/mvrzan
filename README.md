@@ -26,6 +26,8 @@ As for my personal time, I try to learn new things one day at the time and build
 <a href="https://www.twilio.com/studio" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/176720154-cbeee45c-eb19-4fad-9560-d745197d4837.png"></code> Studio
 <a href="https://www.twilio.com/taskrouter" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/176720143-a70fde4d-cdf3-427d-bebd-d932ff1dcc1d.png"></code> TaskRouter
 <a href="https://www.twilio.com/docs/runtime/serverless-api" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/176721162-e446ecfb-e465-4d40-a58f-f6297bb0d8ed.png"></code> Serverless Functions
+<a href="https://www.twilio.com/en-us/messaging/channels/whatsapp" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/218113915-39cecc92-7252-4c6c-935e-d492ce4fd3f4.png"></code> Twilio WhatsApp
+
 
 ## 🛠 Things I currently experiment with in my free time 🥼 💻 🤓
   
