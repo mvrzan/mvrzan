@@ -41,6 +41,4 @@ As for my personal time, I try to learn new things one day at the time and build
 
 ### UI Libraries & Tools 🔧
 <a href="https://chakra-ui.com" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216826076-ab2287fc-2a00-4c15-a085-1445111ef1c3.png"></code> Chakra UI
-<a href="https://git-scm.com/" target=![Solution Design Template - React Hierarchy (1)](https://github.com/mvrzan/mvrzan/assets/53003989/1ae7dd68-83e0-4fa0-becd-bc5898ba1f4f)
-![Solution Design Template - React Hierarchy](https://github.com/mvrzan/mvrzan/assets/53003989/d65e1538-2b0a-48d5-89b2-16a2210fdd1e)
-"_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
+<a href="https://git-scm.com/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
