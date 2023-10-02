@@ -27,11 +27,11 @@ As for my personal time, I try to learn new things one day at the time and build
 <a href="https://www.twilio.com/taskrouter" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/176720143-a70fde4d-cdf3-427d-bebd-d932ff1dcc1d.png"></code> TaskRouter
 <a href="https://www.twilio.com/docs/runtime/serverless-api" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/176721162-e446ecfb-e465-4d40-a58f-f6297bb0d8ed.png"></code> Serverless Functions
 <a href="https://www.twilio.com/en-us/messaging/channels/whatsapp" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/218113915-39cecc92-7252-4c6c-935e-d492ce4fd3f4.png"></code> Twilio WhatsApp
-<a href="https://www.twilio.com/docs/conversations" target="_blank"><code><img height="20" src="https://github.com/mvrzan/mvrzan/assets/53003989/dd8c0820-3b73-47da-ab30-2dd55946a798"></code> Conversations API
+
 
 ## 🛠 Things I currently experiment with in my free time 🥼 💻 🤓
 
-  
+
 ### Programming languages & Frameworks 📝
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavasScript.js
 <a href="https://www.typescriptlang.org" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216825545-a60a0315-571e-4da9-bbe6-18c06c08a0e1.png"></code> TypeScript
@@ -41,4 +41,6 @@ As for my personal time, I try to learn new things one day at the time and build
 
 ### UI Libraries & Tools 🔧
 <a href="https://chakra-ui.com" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216826076-ab2287fc-2a00-4c15-a085-1445111ef1c3.png"></code> Chakra UI
-<a href="https://git-scm.com/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
+<a href="https://git-scm.com/" target=![Solution Design Template - React Hierarchy (1)](https://github.com/mvrzan/mvrzan/assets/53003989/1ae7dd68-83e0-4fa0-becd-bc5898ba1f4f)
+![Solution Design Template - React Hierarchy](https://github.com/mvrzan/mvrzan/assets/53003989/d65e1538-2b0a-48d5-89b2-16a2210fdd1e)
+"_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
