@@ -8,10 +8,11 @@ As for my personal time, I try to learn new things one day at the time and build
 
 
 ### Programming languages & Frameworks 📝
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
-<a href="https://www.typescriptlang.org" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216825545-a60a0315-571e-4da9-bbe6-18c06c08a0e1.png"></code> TypeScript
-<a href="https://nodejs.org" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js
-<a href="https://reactjs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React.js
+[![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&color=%23a69a3f)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Static Badge](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white&color=%233fa649)](https://nodejs.org)
+[![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&color=%231942bf)](https://reactjs.org/)
+
 
 ### UI Libraries & Tools 🔧
 <a href="https://paste.twilio.design/" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/206908511-7064ee86-30ab-4f48-8a0b-cdc101927368.png"></code> Twilio Paste
