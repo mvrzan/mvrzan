@@ -4,21 +4,23 @@ My name is Matija Vrzan and I'm a Senior Solutions Architect at Twilio's Profess
 
 As for my personal time, I try to learn new things one day at the time and build web applications that are performant, scalable, and well-designed. Once I have something of sustenance, I'll be sure to share it here for reference. At the moment, this is work in progress 🚧 👷‍♂️ 🏗️
 
-## 🛠 Things I currently work with professionally 👷‍♂️ 🏢 💼
-
+## 🛠 Technologies I used 🛠
 
 ### Programming languages & Frameworks 📝
 [![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&color=%23a69a3f)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Static Badge](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white&color=%233fa649)](https://nodejs.org)
 [![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&color=%231942bf)](https://reactjs.org/)
-
+[![Static Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)](https://reactjs.org/)
+[![Static Badge](https://img.shields.io/badge/astro-purple?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ### UI Libraries & Tools 🔧
-<a href="https://paste.twilio.design/" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/206908511-7064ee86-30ab-4f48-8a0b-cdc101927368.png"></code> Twilio Paste
-<a href="https://mui.com/" target="_blank"><code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code> Material UI (MUI)
-<a href="https://redux.js.org/" target="_blank"><code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code> Redux
-<a href="https://git-scm.com/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
+[![Static Badge](https://img.shields.io/badge/Twilio%20Paste-red?style=for-the-badge&logo=twilio&logoColor=white)](https://paste.twilio.design/)
+[![Static Badge](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=MUI&logoColor=white&color=%23062c9e)](https://mui.com/)
+[![Static Badge](https://img.shields.io/badge/Chakra-white?style=for-the-badge&logo=chakra%20UI&color=%23e6e9f2)](https://chakra-ui.com)
+[![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind%20css&color=%2308112e)](https://tailwindcss.com/)
+[![Static Badge](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=%23d43bc9)](https://redux.js.org/)
+[![Static Badge](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&color=%23f7f0f7)](https://git-scm.com/)
   
 ### Twilio Cloud ☁️
 <a href="https://www.twilio.com/" target="_blank"><code><img height="20" src="https://cdn.worldvectorlogo.com/logos/twilio.svg"></code> Twilio Cloud
@@ -30,16 +32,5 @@ As for my personal time, I try to learn new things one day at the time and build
 <a href="https://www.twilio.com/en-us/messaging/channels/whatsapp" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/218113915-39cecc92-7252-4c6c-935e-d492ce4fd3f4.png"></code> Twilio WhatsApp
 
 
-## 🛠 Things I currently experiment with in my free time 🥼 💻 🤓
 
 
-### Programming languages & Frameworks 📝
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavasScript.js
-<a href="https://www.typescriptlang.org" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216825545-a60a0315-571e-4da9-bbe6-18c06c08a0e1.png"></code> TypeScript
-<a href="https://nodejs.org" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js
-<a href="https://reactjs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React.js
-<a href="https://nextjs.org" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216826247-ea534c06-0c7d-43f2-b5ec-b4bf9e6618c8.png"></code> Next.js
-
-### UI Libraries & Tools 🔧
-<a href="https://chakra-ui.com" target="_blank"><code><img height="20" src="https://user-images.githubusercontent.com/53003989/216826076-ab2287fc-2a00-4c15-a085-1445111ef1c3.png"></code> Chakra UI
-<a href="https://git-scm.com/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
