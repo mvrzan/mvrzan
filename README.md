@@ -1,6 +1,6 @@
 ### Hello there!  👋
 
-My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja, Croatia** currently living in 🇨🇦 **Toronto, Canada**! I try to learn new things one day at the time and build web applications that are performant, scalable, and well-designed.
+My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja, Croatia** currently living in 🇨🇦 **Toronto, Canada**! I try to learn new things one day at a time and build web applications that are performant, scalable, and well-designed.
 
 ## 🛠 Technologies I used 🛠
 
