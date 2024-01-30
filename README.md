@@ -11,7 +11,7 @@ As for my personal time, I try to learn new things one day at the time and build
 [![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Static Badge](https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.js&logoColor=white&color=%233fa649)](https://nodejs.org)
 [![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&color=%231942bf)](https://reactjs.org/)
-[![Static Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)](https://reactjs.org/)
+[![Static Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Static Badge](https://img.shields.io/badge/astro-purple?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 ### UI Libraries & Tools 🔧
