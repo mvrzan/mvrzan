@@ -2,10 +2,9 @@
 
 My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja, Croatia** currently living in 🇨🇦 **Toronto, Canada**! I try to learn new things one day at a time and build web applications that are performant, scalable, and well-designed.
 
-## 🛠 Technologies I used 🛠
+<h1 align="center">🛠 Technologies I used 🛠</h1>
 
-### Programming languages & Frameworks 📝
-
+<h2 align="center">Programming languages & Frameworks 📝</h2>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&color=%23a69a3f"/></a>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -15,8 +14,7 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/astro-purple?style=for-the-badge&logo=astro&logoColor=white"/></a>
 <p/>
   
-### UI Libraries & Tools 🔧
-
+<h2 align="center">UI Libraries & Tools 🔧</h2>
 <p align="center">
   <a href="https://paste.twilio.design/" target="_blank"><img src="https://img.shields.io/badge/Twilio%20Paste-red?style=for-the-badge&logo=twilio&logoColor=white"/></a>
   <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=MUI&logoColor=white&color=%23062c9e"/></a>
@@ -27,9 +25,7 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://azure.microsoft.com/en-ca/products/devops" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=Azure%20DevOps&logoColor=white"/></a>
 <p/>
 
-
-### Twilio Cloud ☁️
-
+<h2 align="center">Twilio Cloud ☁️</h2>
 <p align="center">
   <a href="https://www.twilio.com/" target="_blank"><img src="https://img.shields.io/badge/Twilio-red?style=for-the-badge&logo=twilio&logoColor=white"/></a>
   <a href="https://www.twilio.com/flex" target="_blank"><img src="https://img.shields.io/badge/Flex-red?style=for-the-badge&color=%23f7f0f7&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAABrCAYAAABwv3wMAAAABHNCSVQICAgIfAhkiAAABElJREFUeJzt3V9S21YYxuH3EySkw5SYHTgbiMgKXKYDt01WkGYFGVYQZwd0B2QFnVwGLqhXUKsrUFcQt4ShBFtfLpI2NNiy/pzznSP7/V0xtpHEPAMcS+fIgi9pOuhd4P5TBfpgc0sg401cj7/LRnmI/QsAXKWD/g22zkGoKuUb0Gfb2dnYescJABCqVv0ZcH6ZHuxZ7zi5SH/8AYSqmfRCgCWWO1ut7MGI1SpbMGK1zg6MWE6yASOWs/yDEctpfsGI5Tx/YMTykh8wYnnLPRixvOYWjFjecwdGLJPcgBHLrPZgxDKtHRixzGsORqwgNQMjVrDqgxEraPXAiBW86mDEiqJqYMSKpuVgxIqqcrAkwXRifUisrMVgyXY2GovKbwGOii1sPlgCAFP555momk8HZmXdBZN/v3ifDnqbev9cRcynBbOydLIB7G9nZ2O5/TDBYk0n9/DxiXz7MMHiTCG/3Bm672ajyVQ+7vN/WFwlog/nvs8iWHyp6ujOn8Hb8U9iLEm+k717VIoFhAMT1bEAa/+bXYhmM9yc7GajyVIsIASYvtjJzk5s9tWdKp0btPwfJqLHhJpf5RO5ZmBavPW6/Q5X66w7R4lhq32JxDdYMkt+8rHdVUiAzzcs+aAPhiqz50DSSxQnG3L9uuzmHJ4HHUc72emxh+12OgGAD48Pfy0ET795Lr+H6/2AYLlosXDfTVKRN10evMhlOtibYev3Bc+HBnOeKIbf/3H6OvRxNCkpsNkreb5/g63zq3TQX/SCrg06VDC8eHz4KvRxNKnKAINgkVR1NEiwCKozdCdY4Oq+zyJYwJrMGyRYoJpO8iRYgNrMyCWYcW2nTxPMMBdz3QlmlKuFCQQzyOUqEoJ5zvWSH4J5zMf6LIJ5ytdiOoJ5yOfKR4I5zvcyVYI5zGJN8UqCXe4dPrfer9UC8JUDmylOrMEsV+sTrGXWt1YgWItC3AeDYA0LddMSgjUo5B1mCFaz0LcDIliNQmMBBKtcDFjAF7D36WDh7GCCxYMFAP0ED4ZlL1h3sJiwINCla7O6B6bHa/3xFt0Ck14h8tLFljqJBXQMrCj6LjaTTDGN/4ddUGfAkiR3spndbDQBiiMXGwtR/GCST1WcLN7776Ylf6UHQ4GEnmeQ72Snj5p+89/pwc+ian6daV6CZDIT+bMAjnezd7mbbd4qArBWWKve/wYYD7OzoUI7ud52HbozGiRYvM0duhMszha+zyJYfJW+KSZYXC09g0GweKp0uolgcVT53CDBwlfrRC7Bwlb7rDvBwtXoEgnBwtT4ehbB7Gt18ZFgtrW+Ukwwu5xc1ieYTc7mYBDMf04nzBDMb85nNxHMX16mohHMT97mDRLMfV4neRLMbd5n5BLMXSbTpwnmJrO57gRrn+nChGVgrj8oZtUyX0VSBqYib6yPp0sFWfLzFUzyz4/oBMBRlz8uaS26Sgf9srXE7GufAJ0Fl9+HfIh4AAAAAElFTkSuQmCC" /></a>
@@ -42,8 +38,7 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://www.twilio.com/docs/voice" target="_blank"><img src="https://img.shields.io/badge/Twilio%20Programmable%20Voice-red?style=for-the-badge&logo=twilio&logoColor=white&color=%23bd0f12"/></a>
 </p>
 
-### Contact me:
-
+<h2 align="center">Contact me 🤙</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/matija-vrzan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contactmatijavrzan@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
