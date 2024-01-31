@@ -24,8 +24,10 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind%20css&color=%2308112e"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=%23d43bc9"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&color=%23f7f0f7"/></a>
+  <a href="https://azure.microsoft.com/en-ca/products/devops" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=Azure%20DevOps&logoColor=white"/></a>
 <p/>
-  
+
+
 ### Twilio Cloud ☁️
 
 <p align="center">
