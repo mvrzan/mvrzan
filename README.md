@@ -13,6 +13,9 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&color=%231942bf"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js"/></a>
   <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/astro-purple?style=for-the-badge&logo=astro&logoColor=white"/></a>
+
+  
+
 <p/>
 
 ### UI Libraries & Tools 🔧
@@ -42,8 +45,17 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
   <a href="https://www.twilio.com/docs/voice" target="_blank"><img src="https://img.shields.io/badge/Twilio%20Programmable%20Voice-red?style=for-the-badge&logo=twilio&logoColor=white&color=%23bd0f12"/></a>
 </p>
 
+### Salesforce Cloud ☁️
+
+<p align="center">
+  <a href="https://www.salesforce.com/" target="_blank"><img src="https://img.shields.io/badge/salesforce%20CRM-blue?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
+  <a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku&color=violet" /></a>
+  <a href="https://www.salesforce.com/data/" target="_blank"><img src="https://img.shields.io/badge/salesforce%20data%20cloud-blue?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
+</p>
+
 <h2 align="center">Contact me 🤙</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/matija-vrzan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contactmatijavrzan@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
