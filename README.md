@@ -86,7 +86,8 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
     <th colspan="5">Salesforce projects</th>
   </tr>
   <tr>
-     <td colspan="5" align="center"><a href="https://github.com/mvrzan/salesforce-einstein-personalization-llm">Salesforce Personalization with Agentforce and a 3rd Party Chat Service</a></td>
+     <td colspan="2" align="center"><a href="https://github.com/mvrzan/salesforce-einstein-personalization-llm">Salesforce Personalization with Agentforce and a 3rd Party Chat Service</a></td>
+     <td align="center"><a href="https://github.com/mvrzan/heroku-app-link-express-example">Heroku AppLink Express Example</a></td>
   </tr>
     <tr>
     <td><a href="https://github.com/mvrzan/salesforce-data-cloud-unstructured-data">Data Cloud and Unstructured Data Ingestion</a></td>
