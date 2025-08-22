@@ -86,7 +86,8 @@ My name is Matija Vrzan and I'm a developer enthusiast from 🇭🇷 **Petrinja,
     <th colspan="5">Salesforce projects</th>
   </tr>
     <tr>
-     <td colspan="5" align="center"><a href="https://github.com/mvrzan/salesforce-data-cloud-iceberg-s3-connector">Data Cloud and Apache Iceberg</a></td>
+     <td colspan="2" align="center"><a href="https://github.com/mvrzan/heroku-agentforce-mcp">Agentforce with Model Context Protocol (MCP)</a></td>
+     <td colspan="3" align="center"><a href="https://github.com/mvrzan/salesforce-data-cloud-iceberg-s3-connector">Data Cloud and Apache Iceberg</a></td>
   </tr>
   <tr>
      <td align="center"><a href="https://github.com/mvrzan/salesforce-connections-demo">Connections 2025 Demo: Agentforce + Data Cloud web personalization</a></td>
